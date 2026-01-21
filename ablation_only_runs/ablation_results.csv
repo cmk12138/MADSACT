@@ -1,0 +1,7 @@
+﻿variant,seed,mcr,fkr,jt,js,jc,ckpt_path
+full,42,0.97,0.5714567818615204,207.02,118.5411862140894,185.55223490438425,E:\PycharmProjects\code\backup\path planning\ablation_only_runs\full\seed_42\checkpoints\dsact_path_ep50000.pt
+no_td_bound,42,0.97,0.5714567818615204,207.02,118.5411862140894,185.55223490438425,E:\PycharmProjects\code\backup\path planning\ablation_only_runs\no_td_bound\seed_42\checkpoints\dsact_path_ep50000.pt
+no_uncertainty_weight,42,0.97,0.5714567818615204,207.02,118.5411862140894,185.55223490438425,E:\PycharmProjects\code\backup\path planning\ablation_only_runs\no_uncertainty_weight\seed_42\checkpoints\dsact_path_ep50000.pt
+no_action_penalty,42,0.97,0.5714567818615204,207.02,118.5411862140894,185.55223490438425,E:\PycharmProjects\code\backup\path planning\ablation_only_runs\no_action_penalty\seed_42\checkpoints\dsact_path_ep50000.pt
+no_progress_reward,42,0.97,0.5714567818615204,207.02,118.5411862140894,185.55223490438425,E:\PycharmProjects\code\backup\path planning\ablation_only_runs\no_progress_reward\seed_42\checkpoints\dsact_path_ep50000.pt
+no_formation_bonus,42,0.97,0.5714567818615204,207.02,118.5411862140894,185.55223490438425,E:\PycharmProjects\code\backup\path planning\ablation_only_runs\no_formation_bonus\seed_42\checkpoints\dsact_path_ep50000.pt

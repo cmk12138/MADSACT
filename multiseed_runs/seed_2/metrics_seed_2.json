@@ -1,0 +1,14 @@
+{
+  "seed": 2,
+  "ckpt_path": "./multiseed_runs\\seed_2\\checkpoints\\dsact_path_ep50000.pt",
+  "followers": 3,
+  "test_episodes": 100,
+  "test_ep_len": 1000,
+  "metrics": {
+    "mcr": 0.98,
+    "fkr": 0.3839274613645233,
+    "jt": 219.73,
+    "js": 120.50075646102428,
+    "jc": 202.81339450716973
+  }
+}

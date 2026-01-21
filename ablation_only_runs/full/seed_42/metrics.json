@@ -1,0 +1,13 @@
+{
+  "variant": "full",
+  "seed": 42,
+  "followers": 1,
+  "ckpt_path": "E:\\PycharmProjects\\code\\backup\\path planning\\ablation_only_runs\\full\\seed_42\\checkpoints\\dsact_path_ep50000.pt",
+  "metrics": {
+    "mcr": 0.97,
+    "fkr": 0.5714567818615204,
+    "jt": 207.02,
+    "js": 118.5411862140894,
+    "jc": 185.55223490438425
+  }
+}

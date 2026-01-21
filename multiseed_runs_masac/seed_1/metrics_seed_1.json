@@ -1,0 +1,14 @@
+{
+  "seed": 1,
+  "ckpt_path": "./multiseed_runs_masac\\seed_1\\checkpoints\\masac_seed1_ep50000.pth",
+  "followers": 1,
+  "test_episodes": 100,
+  "test_ep_len": 1000,
+  "metrics": {
+    "mcr": 1.0,
+    "fkr": 0.45252129634662874,
+    "jt": 213.17,
+    "js": 119.39251383274794,
+    "jc": 175.46476897932473
+  }
+}
